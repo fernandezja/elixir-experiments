@@ -1,0 +1,1 @@
+#acronimo a partir de una frase (solo mayusculas)
